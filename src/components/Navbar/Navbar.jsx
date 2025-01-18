@@ -24,7 +24,7 @@ useEffect(() => {
         <ul className='hidden md:flex gap-7 text-white'>
           <a href="#Header" className='cursor-pointer hover:text-black'>Home</a>
           <a href="#About" className='cursor-pointer hover:text-black'>About</a>
-          <a href="#Project" className='cursor-pointer hover:text-black'>Project</a>
+          <a href="#Projects" className='cursor-pointer hover:text-black'>Project</a>
           <a href="#Testimonials" className='cursor-pointer hover:text-black'>Testimonials</a>
         </ul>
         <button className='hidden md:block bg-white px-8 py-2 rounded-full'>Sign up</button>
